@@ -19,3 +19,8 @@ MugglePayBot是基于Telegram的支付钱包，用户通过私信@MugglePayBot�
 
 1.在Telegram中关注@MugglePayBot，在私信聊天框，发送/start指令进入主菜单：
 ![ad](https://github.com/MugglePay/MugglePayBot---Telegram-Payment-Bot/blob/master/Images/photo_start.jpg)
+
+2.如何使用MugglePayBot匿名地在Telegram联系人中收付款？
+点击主菜单上的收钱按钮，告诉机器人你要收钱的数量：
+
+![ad](https://github.com/MugglePay/MugglePayBot---Telegram-Payment-Bot/blob/master/Images/photo_receive.png)
