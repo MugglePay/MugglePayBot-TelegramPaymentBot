@@ -43,4 +43,4 @@ MugglePayBot是基于Telegram的支付钱包，用户通过私信@MugglePayBot�
 4.如何提现？
 返回主菜单，点击提币，告诉MugglePayBot你的提币金额：
 
-
+输入提币金额和地址完成提币。
