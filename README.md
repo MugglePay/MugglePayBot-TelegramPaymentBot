@@ -24,3 +24,11 @@ MugglePayBot是基于Telegram的支付钱包，用户通过私信@MugglePayBot�
 点击主菜单上的收钱按钮，告诉机器人你要收钱的数量：
 
 ![ad](https://github.com/MugglePay/MugglePayBot---Telegram-Payment-Bot/blob/master/Images/photo_receive.png)
+
+将口令复制给你的Telegram联系人，对方付款后1USDT将加入你的麻瓜宝余额当中。
+
+3. 如何向MugglePayBot充值以便匿名付款给Telegram联系人或支付订单？
+点击主菜单中的充币，点击“输入充值金额”：
+
+![ad](https://github.com/MugglePay/MugglePayBot---Telegram-Payment-Bot/blob/master/Images/photo_topup.png)
+
