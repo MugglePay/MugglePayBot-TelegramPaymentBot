@@ -14,3 +14,8 @@ MugglePayBot是基于Telegram的支付钱包，用户通过私信@MugglePayBot�
 -在Telegram群组中发红包
 
 -向您的Telegram联系人发红包
+
+3分钟轻松接入MugglePayBot
+
+1.在Telegram中关注@MugglePayBot，在私信聊天框，发送/start指令进入主菜单：
+![ad](https://github.com/MugglePay/MugglePayBot---Telegram-Payment-Bot/blob/master/Images/photo_start.jpg)
